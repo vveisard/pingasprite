@@ -59,6 +59,8 @@ fn main() {
     config.io.output_sprite_directory_path,
   );
 
+  fs::create_dir_all(&output_sprite_directory_path).unwrap();
+
   let output_sprite_image_extension = config.io.output_sprite_format;
   let output_sprite_image_format: ImageFormat =
     ImageFormat::from_extension(&output_sprite_image_extension).unwrap();

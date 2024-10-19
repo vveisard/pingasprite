@@ -1,6 +1,6 @@
 [io]
 input_sprite_sheet_file_path = "assets/5944.png"
-output_sprite_directory_path = "output"
+output_sprite_directory_path = "output/robotnik"
 output_sprite_format = "png"
 
 [replacements]
