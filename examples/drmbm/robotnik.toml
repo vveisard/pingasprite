@@ -1,0 +1,19 @@
+[io]
+input_sprite_sheet_file_path = "assets/5944.png"
+output_sprite_directory_path = "output"
+output_sprite_format = "png"
+
+[replacements]
+000060ff = "00000000"
+
+[[sprites]]
+top = 743
+left = 169
+width = 80
+height = 56
+
+[[sprites]]
+top = 743
+left = 250
+width = 80
+height = 56
