@@ -1,63 +1,71 @@
 [io]
 input_sprite_sheet_file_path = "assets/5944.png"
-output_sprite_directory_path = "output/robotnik"
+output_sprite_directory_path = "output/coconuts"
 output_sprite_format = "png"
 
 [replacements]
 000060ff = "00000000"
+000030ff = "00000000"
 
 # 1, 1
 [[sprites]]
-top = 743
-left = 169
+top = 14
+left = 846
 width = 80
 height = 56
 
 # 1, 2
 [[sprites]]
-top = 743
-left = 250
-width = 80
-height = 56
-
-# 1, 3
-[[sprites]]
-top = 743
-left = 331
+top = 14
+left = 927
 width = 80
 height = 56
 
 # 2, 1
 [[sprites]]
-top = 800
-left = 169
+top = 71
+left = 846
 width = 80
 height = 56
 
 # 2, 2
 [[sprites]]
-top = 800
-left = 250
+top = 71
+left = 927
 width = 80
 height = 56
 
 # 3, 1
 [[sprites]]
-top = 857
-left = 169
+top = 128
+left = 846
 width = 80
 height = 56
 
 # 3, 2
 [[sprites]]
-top = 857
-left = 250
+top = 128
+left = 927
+width = 80
+height = 56
+
+# 3, 3
+[[sprites]]
+top = 128
+left = 1008
 width = 80
 height = 56
 
 # 4, 1
 [[sprites]]
-top = 914
-left = 169
+top = 185
+left = 846
+width = 80
+height = 56
+
+# 4, 2
+[[sprites]]
+top = 185
+left = 927
 width = 80
 height = 56

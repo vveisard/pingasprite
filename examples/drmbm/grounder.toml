@@ -1,63 +1,71 @@
 [io]
 input_sprite_sheet_file_path = "assets/5944.png"
-output_sprite_directory_path = "output/robotnik"
+output_sprite_directory_path = "output/grounder"
 output_sprite_format = "png"
 
 [replacements]
 000060ff = "00000000"
+000030ff = "00000000"
 
 # 1, 1
 [[sprites]]
-top = 743
-left = 169
+top = 500
+left = 1
 width = 80
 height = 56
 
 # 1, 2
 [[sprites]]
-top = 743
-left = 250
+top = 500
+left = 82
 width = 80
 height = 56
 
 # 1, 3
 [[sprites]]
-top = 743
-left = 331
+top = 500
+left = 163
 width = 80
 height = 56
 
 # 2, 1
 [[sprites]]
-top = 800
-left = 169
+top = 557
+left = 1
 width = 80
 height = 56
 
 # 2, 2
 [[sprites]]
-top = 800
-left = 250
+top = 557
+left = 82
 width = 80
 height = 56
 
 # 3, 1
 [[sprites]]
-top = 857
-left = 169
+top = 614
+left = 1
 width = 80
 height = 56
 
 # 3, 2
 [[sprites]]
-top = 857
-left = 250
+top = 614
+left = 82
 width = 80
 height = 56
 
 # 4, 1
 [[sprites]]
-top = 914
-left = 169
+top = 671
+left = 1
+width = 80
+height = 56
+
+# 4, 2
+[[sprites]]
+top = 671
+left = 82
 width = 80
 height = 56
